@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Power BI local caches / machine-specific settings (if a .SemanticModel export is added later)
+**/.pbi/cache.abf
+**/.pbi/localSettings.json
+**/.pbi/editorSettings.json

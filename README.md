@@ -35,18 +35,6 @@ cut-off rule for the worst segments rather than at across-the-board tightening.
 Amounts are in the dataset's own currency units; the data is synthetic, so the
 figures illustrate the method, not a real institution.
 
-### Default rate by loan grade
-![Default rate by loan grade](analysis/output/01_default_rate_by_grade.png)
-
-### Default rate by payment history — the strongest single driver
-![Default rate by payment history](analysis/output/03_default_rate_by_payment_history.png)
-
-### Portfolio economics
-![Portfolio economics](analysis/output/04_portfolio_economics.png)
-
-### Default rate by debt-to-income band
-![Default rate by DTI band](analysis/output/02_default_rate_by_dti.png)
-
 ---
 
 ## Data model
